@@ -5,6 +5,5 @@ A better Everforest for the command-line.
 
 <img width="900" height="628" alt="AsciiquariumEverforest" src="https://github.com/user-attachments/assets/eb25943e-92a1-44f2-a9ab-d4d5c9913381" />
 
-
 Everforest:
 https://github.com/sainnhe/everforest
