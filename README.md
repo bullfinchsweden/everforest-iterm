@@ -9,7 +9,7 @@ https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/
 
 <img width="261" height="86" alt="EverforestColors" src="https://github.com/user-attachments/assets/4ad782e1-7334-403c-bed9-73e7d3846118" />
 
-<img width="779" height="391" alt="EverforestColors2" src="https://github.com/user-attachments/assets/28288204-ce98-4f40-a1da-35870d2865b1" />
+<img width="779" height="393" alt="EverforestColors2" src="https://github.com/user-attachments/assets/3f257335-1129-48cc-ad83-29f1bc10585c" />
 
 <img width="754" height="527" alt="EverforestAsciiquarium" src="https://github.com/user-attachments/assets/4d1fbb67-833c-4370-bfb6-3a9993f8bde8" />
 
