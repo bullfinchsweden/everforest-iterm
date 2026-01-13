@@ -13,6 +13,6 @@ A better Everforest for the command-line.
 
 <img width="261" height="85" alt="EverforestColors1" src="https://github.com/user-attachments/assets/4a21dcf4-8ecb-45f8-a736-19e9fd2c3161" />
 
-<img width="785" height="397" alt="EverforestColors2" src="https://github.com/user-attachments/assets/b6de76c6-62d3-445e-a386-9a852ae30d22" />
+<img width="785" height="397" alt="EverforestColors2" src="https://github.com/user-attachments/assets/b6de76c6-62d3-445e-a386-9a852ae30d22" /><br>
 
 *Everforest 2.itermcolors (without alternative colors for bold text)*
