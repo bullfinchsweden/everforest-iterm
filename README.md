@@ -9,7 +9,7 @@ A better Everforest for the command-line.
 
 * [Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)<br>
 
-*Everforest.itermcolors (with alternative colors for bold text)*<br>
+*Everforest.itermcolors*<br>
 
 <img width="261" height="86" alt="EverforestColors" src="https://github.com/user-attachments/assets/4ad782e1-7334-403c-bed9-73e7d3846118" />
 
