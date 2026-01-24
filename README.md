@@ -7,6 +7,8 @@ The Everforest color scheme for iTerm2.
 
 * [Everforest website](https://everforest.vercel.app/)
 
+* [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)
+
 * [Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)<br>
 
 *Everforest.itermcolors*
