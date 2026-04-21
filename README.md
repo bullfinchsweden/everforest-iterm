@@ -14,11 +14,11 @@ The Everforest color scheme for iTerm2.
 *Everforest.itermcolors*
 
 <img width="261" height="85" alt="EverforestColors1" src="https://github.com/user-attachments/assets/4a21dcf4-8ecb-45f8-a736-19e9fd2c3161" />
-
+<br/>
 <img width="785" height="397" alt="EverforestColors2" src="https://github.com/user-attachments/assets/b6de76c6-62d3-445e-a386-9a852ae30d22" /><br>
 
 *Everforest 2.itermcolors (without alternative colors for bold text)*
 
 <img width="261" height="84" alt="EverforestColors3" src="https://github.com/user-attachments/assets/2fb85bef-b00d-400a-bd24-e2676d0c7c7c" />
-
+<br/>
 <img width="784" height="397" alt="EverforestColors4" src="https://github.com/user-attachments/assets/214a1ff6-ed01-4cf5-ab38-966f5dc14885" />
