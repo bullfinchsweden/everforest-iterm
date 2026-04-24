@@ -1,4 +1,4 @@
-# Everforest iTerm 🌲
+# Everforest iTerm
 The Everforest color scheme for iTerm2.
 
 * [iTerm2 for macOS](https://iterm2.com/)
