@@ -1,6 +1,8 @@
 # Everforest iTerm
 The Everforest color scheme for iTerm2.
 
+<img width="103" height="103" alt="PineTree" src="https://github.com/user-attachments/assets/e2bec0b1-d811-4bd1-a9de-8d195ce2887d" /><br/>
+
 * [iTerm2 for macOS](https://iterm2.com/)
 
 * [Everforest color scheme](https://github.com/sainnhe/everforest)
