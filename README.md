@@ -11,7 +11,7 @@ The Everforest color scheme for iTerm2.
 
 * [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)
 
-* [Everforest for Firefox](https://addons.mozilla.org/en-US/firefox/collections/18694308/Everforest-Themes/)<br/>
+* [Everforest for Firefox](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Everforest-Themes/)<br/>
 
 *Everforest.itermcolors*
 
