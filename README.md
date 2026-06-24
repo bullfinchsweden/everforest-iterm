@@ -5,7 +5,7 @@ The Everforest color scheme for iTerm2.
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
-* [Everforest color scheme](https://github.com/sainnhe/everforest)
+* [Everforest color palette](https://github.com/sainnhe/everforest)
 
 * [Everforest website](https://everforest.vercel.app/)
 
