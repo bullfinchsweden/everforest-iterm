@@ -11,6 +11,8 @@ The Everforest color scheme for iTerm2.
 
 * [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)<br/>
 
+<img src="Images/Everforest.jpg" width="754" height="528" /><br/>
+
 *Everforest.itermcolors*
 
 <img src="Images/EverforestColors1.png" width="260" height="83" /><br/>
