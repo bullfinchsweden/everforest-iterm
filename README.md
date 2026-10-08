@@ -1,7 +1,7 @@
 # Everforest iTerm
 The Everforest color scheme for iTerm2.
 
-<img src="Images/PineTree.png"><br/>
+<img src="Images/iTerm.jpg"><br/>
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
@@ -11,7 +11,7 @@ The Everforest color scheme for iTerm2.
 
 * [Everforest for Starship](https://github.com/martelo11/starship-everforest-themes)<br/>
 
-<img src="Images/iTerm.jpg" width="768" height="320" /><br/>
+<img src="Images/Everforest.jpg" width="768" height="320" /><br/>
 
 *Everforest.itermcolors*
 
