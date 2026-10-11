@@ -1,4 +1,4 @@
-# Everforest iTerm 🌲
+# Everforest iTerm
 The Everforest color scheme for iTerm2.
 
 <img src="Images/iTerm.jpg"><br/>
