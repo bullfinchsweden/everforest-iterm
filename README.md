@@ -15,12 +15,8 @@ The Everforest color scheme for iTerm2.
 
 *Everforest.itermcolors*
 
-<img src="Images/EverforestColors1.png" width="260" height="83" /><br/>
-
-<img src="Images/EverforestColors2.png" width="785" height="398" /><br/>
+<img src="Images/EverforestiTerm1.png" width="764.5" height="376.5" /><br/>
 
 *Everforest 2.itermcolors (without alternative colors for bold text)*
 
-<img src="Images/EverforestColors3.png" width="260" height="83" /><br/>
-
-<img src="Images/EverforestColors4.png" width="785" height="398" />
+<img src="Images/EverforestiTerm2.png" width="764.5" height="376.5" />
