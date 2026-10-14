@@ -1,7 +1,7 @@
 # Everforest | iTerm
 The Everforest color scheme for iTerm2.
 
-<img src="Images/iTerm.jpg"><br/>
+<img src="Images/iTerm.png"><br/>
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
